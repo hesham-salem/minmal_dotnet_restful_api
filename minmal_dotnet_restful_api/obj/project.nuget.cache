@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cd5YiUEe9/ATJ+Ugf44J47daYwODW31+QLYFp/lEtrPq2rxPTWnDmVu2CY1KzAYkSR2A+PFCu4Cz4VByMWoUjQ==",
+  "success": true,
+  "projectFilePath": "/home/hesham/Downloads/ttt (copy)/ttt.csproj",
+  "expectedPackageFiles": [
+    "/home/hesham/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
